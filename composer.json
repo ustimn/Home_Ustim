@@ -1,0 +1,11 @@
+{
+    "name": "ustim/home_ustim",
+    "authors": [
+        {
+            "name": "Nikolay Ustimenko",
+            "email": "ustimn@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
